@@ -33,9 +33,9 @@ function Welcomepage() {
     strings: ['GET READY TO CONQUER!'],
     autoStart: true,
     loop: true,
-    pauseFor:4000,
-    delay:200,
-    deleteSpeed	:200,
+    pauseFor:1000,
+    delay:50,
+    deleteSpeed	:50,
   }} 
 />
 

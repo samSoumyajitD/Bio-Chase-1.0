@@ -23,9 +23,9 @@ const MenuButton = () => {
     strings: ['WELCOME TO THE “Bio-Chase 1.0”','DIVE INTO THE REALM OF CURIOSITY' ],
     autoStart: true,
     loop: true,
-    pauseFor:4000,
-    delay:150,
-    deleteSpeed	:50,
+    pauseFor:1500,
+    delay:70,
+    deleteSpeed	:20,
   }}
 />
 </section>
