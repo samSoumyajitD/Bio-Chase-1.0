@@ -42,7 +42,7 @@
     align-items: center;
     display: flex;
     font-size: 20px;
-    font-weight:500 ;
+    font-weight:400 ;
   }
   @media (max-width:900px){
     .rules-head{
