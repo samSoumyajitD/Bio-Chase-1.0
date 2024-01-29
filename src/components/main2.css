@@ -106,24 +106,26 @@ padding: 0 15%;
     justify-content: center;
     align-items: center;
    
-    font-size: 14rem;
-    color: #d57eeb;
+    font-size: 13rem;
+    color:  #d57eeb;
     animation: fadeIn 4s ease-in-out; 
+    
+    
   }
   .winner1{
-    margin: 8rem 2rem 0 25rem;
+    margin: 9rem 2rem 0 25rem;
 
   }
   .winner2{
-    margin: 31rem 0 0 14rem;
+    margin: 32rem 0 0 14rem;
 
   }
   .winner3{
-    margin: 51rem 2rem 0 28rem;
+    margin: 52rem 2rem 0 28rem;
 
   }
   .winner4{
-    margin: 73rem 0 0 12rem;
+    margin: 74rem 0 0 12rem;
   }
   @keyframes fadeIn {
     0% {
